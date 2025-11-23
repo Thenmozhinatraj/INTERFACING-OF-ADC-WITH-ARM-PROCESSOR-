@@ -56,10 +56,13 @@ while(1)
 }
 }
 ```
+
+---
 # OUTPUT:
 <img width="558" height="375" alt="image" src="https://github.com/user-attachments/assets/43724009-8749-424c-934a-9600e558e026" />
 
 
+---
  
 # RESULTS:
 Thus, an embedded c program to interface ADC with ARM processor was executed and output 
